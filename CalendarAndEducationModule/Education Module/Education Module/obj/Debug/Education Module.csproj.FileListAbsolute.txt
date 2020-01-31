@@ -1,0 +1,269 @@
+D:\Google Drive new\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+D:\Google Drive new\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+D:\Google Drive new\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+D:\Google Drive new\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+D:\Google Drive new\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+D:\Google Drive new\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+D:\Google Drive new\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobic\Desktop\פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobic\Desktop\פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobic\Desktop\פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\201\Desktop\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\201\Desktop\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\201\Desktop\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\201\Desktop\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\201\Desktop\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\201\Desktop\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\201\Desktop\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\תומר\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\תומר\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\תומר\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\תומר\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\תומר\Desktop\פרויקט עדכני\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 10.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 10.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 10.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 10.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 10.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 10.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 10.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 11.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 11.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 11.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 11.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 11.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 11.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 11.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 12.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 12.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 12.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 12.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 12.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 12.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 12.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 13.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 13.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 13.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 13.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 13.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 13.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 13.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 14.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 14.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 14.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 14.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 14.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 14.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 14.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 15.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 15.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 15.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 15.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 15.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 15.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 15.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט 17.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\תומר\Desktop\פרויקט 17.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט 17.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\תומר\Desktop\פרויקט 17.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\תומר\Desktop\פרויקט 17.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\תומר\Desktop\פרויקט 17.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\תומר\Desktop\פרויקט 17.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\תומר\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\תומר\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\תומר\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\תומר\Desktop\פרויקט 18.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 19.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 19.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 19.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 19.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 19.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 19.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 19.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 20.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 20.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 20.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobic\Desktop\פרויקט 20.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobic\Desktop\פרויקט 20.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobic\Desktop\פרויקט 20.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 20.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 22.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 22.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 22.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 22.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 22.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 22.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 22.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט 23.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\תומר\Desktop\פרויקט 23.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\פרויקט 23.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\תומר\Desktop\פרויקט 23.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\תומר\Desktop\פרויקט 23.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\תומר\Desktop\פרויקט 23.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\תומר\Desktop\פרויקט 23.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 23.4 ב'\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 23.4 ב'\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 23.4 ב'\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobic\Desktop\פרויקט 23.4 ב'\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobic\Desktop\פרויקט 23.4 ב'\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobic\Desktop\פרויקט 23.4 ב'\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 23.4 ב'\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 24.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 24.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 24.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 24.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 24.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 24.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 24.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 26.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 26.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 26.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 26.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 26.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 26.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 26.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\212\Desktop\פרויקט 27.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\212\Desktop\פרויקט 27.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\212\Desktop\פרויקט 27.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\212\Desktop\פרויקט 27.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\212\Desktop\פרויקט 27.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\212\Desktop\פרויקט 27.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\212\Desktop\פרויקט 27.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 27.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 27.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 27.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 27.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 27.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 27.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 27.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 27.4 גרסה 3\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 27.4 גרסה 3\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 27.4 גרסה 3\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobic\Desktop\פרויקט 27.4 גרסה 3\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobic\Desktop\פרויקט 27.4 גרסה 3\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobic\Desktop\פרויקט 27.4 גרסה 3\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 27.4 גרסה 3\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 28.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 28.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 28.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobic\Desktop\פרויקט 28.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobic\Desktop\פרויקט 28.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobic\Desktop\פרויקט 28.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 28.4\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 28.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 28.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 28.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 28.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 28.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 28.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 28.4 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 2.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 2.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 2.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobic\Desktop\פרויקט 2.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobic\Desktop\פרויקט 2.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobic\Desktop\פרויקט 2.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 2.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 3.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 3.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 3.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobic\Desktop\פרויקט 3.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobic\Desktop\פרויקט 3.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobic\Desktop\פרויקט 3.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 3.5\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\212\Desktop\פרויקט 3.5 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\212\Desktop\פרויקט 3.5 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\212\Desktop\פרויקט 3.5 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\212\Desktop\פרויקט 3.5 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\212\Desktop\פרויקט 3.5 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\212\Desktop\פרויקט 3.5 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\212\Desktop\פרויקט 3.5 גרסה 2\.פרויקט כולל גרפיקה\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 4.5 גרסה 2\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 4.5 גרסה 2\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobic\Desktop\פרויקט 4.5 גרסה 2\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobic\Desktop\פרויקט 4.5 גרסה 2\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobic\Desktop\פרויקט 4.5 גרסה 2\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobic\Desktop\פרויקט 4.5 גרסה 2\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobic\Desktop\פרויקט 4.5 גרסה 2\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 6.5\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 6.5\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 6.5\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 6.5\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 6.5\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 6.5\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 6.5\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 7.5\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 7.5\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 7.5\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 7.5\מודול יומן עדכני\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 7.5\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 7.5\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 7.5\מודול יומן עדכני\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\תומר\Google Drive\פרויקט שנה ב\שלב ד' קוד\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\Users\תומר\Desktop\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\Users\תומר\Desktop\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\Users\תומר\Desktop\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\Users\תומר\Desktop\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\תומר\Desktop\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\Users\תומר\Desktop\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.pdb
+C:\הצגת פרוייקט לפרופ דני קוטלר\צוות ''הגששים'' -שלב המימוש גרסה 1\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\הצגת פרוייקט לפרופ דני קוטלר\צוות ''הגששים'' -שלב המימוש גרסה 1\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.csproj.CoreCompileInputs.cache
+C:\הצגת פרוייקט לפרופ דני קוטלר\שלב ד מימוש\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Education Module.dll
+C:\הצגת פרוייקט לפרופ דני קוטלר\שלב ד מימוש\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Education Module.pdb
+C:\הצגת פרוייקט לפרופ דני קוטלר\שלב ד מימוש\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Calendar Module.dll
+C:\הצגת פרוייקט לפרופ דני קוטלר\שלב ד מימוש\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\bin\Debug\Calendar Module.pdb
+C:\הצגת פרוייקט לפרופ דני קוטלר\שלב ד מימוש\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.csprojResolveAssemblyReference.cache
+C:\הצגת פרוייקט לפרופ דני קוטלר\שלב ד מימוש\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.csproj.CoreCompileInputs.cache
+C:\הצגת פרוייקט לפרופ דני קוטלר\שלב ד מימוש\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.dll
+C:\הצגת פרוייקט לפרופ דני קוטלר\שלב ד מימוש\הגשת שלב ד' גרסה 1\צוות ''הגששים'' הגשת קוד פרוייקט גירסה 1\CalendarAndEducationModule\Education Module\Education Module\obj\Debug\Education Module.pdb

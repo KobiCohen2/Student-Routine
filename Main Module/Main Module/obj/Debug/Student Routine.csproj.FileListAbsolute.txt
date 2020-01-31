@@ -1,0 +1,45 @@
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\AdamsLair.WinForms.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\AltoControls.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Calendar Module.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\CalendarControl.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\CircularProgressBar.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\DevExpress.AgDataGrid.v8.2.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\DevExpress.AgMenu.v8.2.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Education Module.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\MetroFramework.Design.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\MetroFramework.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\MultiPanelControl.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\RadialControls.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\SplashScreen.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\System.Web.Silverlight.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\System.Windows.Forms.Calendar.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\WinFormAnimation.dll
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Calendar Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Education Module.pdb
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\AdamsLair.WinForms.xml
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\CalendarControl.pdb
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\CircularProgressBar.xml
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\RadialControls.pdb
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\RadialControls.pri
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\System.Windows.Forms.Calendar.pdb
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\WinFormAnimation.xml
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Student Routine.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Main_Module.EmailDialogScreen.resources
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Main_Module.MainForm.resources
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Main_Module.DialogScreen.resources
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Main_Module.FreeTimeDialog.resources
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Main_Module.Properties.Resources.resources
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Main_Module.SplashScreen.resources
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Student Routine.csproj.GenerateResource.Cache
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Student Routine.exe.config
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Student Routine.exe.manifest
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Student Routine.application
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Student Routine.exe
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\bin\Debug\Student Routine.pdb
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Student Routine.exe.manifest
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Student Routine.application
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Student Routine.exe
+C:\Users\kobi2\Desktop\פרויקט 1.5\.פרויקט כולל גרפיקה\Main Module\Main Module\Main Module\obj\Debug\Student Routine.pdb

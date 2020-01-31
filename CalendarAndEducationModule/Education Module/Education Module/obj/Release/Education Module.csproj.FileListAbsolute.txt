@@ -1,0 +1,7 @@
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Release\Education Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Release\Education Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Release\Calendar Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\bin\Release\Calendar Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Release\Education Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Release\Education Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Education Module\Education Module\obj\Release\Education Module.pdb

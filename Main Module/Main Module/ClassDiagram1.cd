@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Main_Module.DialogScreen" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACQAACEAAgigAAACAAQAAIAEAAAAgAACAIA=</HashCode>
+      <FileName>DialogScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.EmailDialogScreen" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACIAAAAiAATQAIICAACECQAABQAAIAEBAEA=</HashCode>
+      <FileName>EmailDialogScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.FreeTimeDialog" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>VEAACAAQACBCAIAIAkGgAAACgwAAAQAEAgAACBACAQA=</HashCode>
+      <FileName>FreeTimeDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.MailService" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAIA=</HashCode>
+      <FileName>MailService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.MainForm">
+    <Position X="2.5" Y="2.5" Width="1.5" />
+    <Members>
+      <Field Name="aboutLbl" Hidden="true" />
+      <Field Name="academicYearCoursePanelCbx" Hidden="true" />
+      <Field Name="academicYearCoursPanelLbl" Hidden="true" />
+      <Field Name="academicYearDisplayExamPanelCbx" Hidden="true" />
+      <Method Name="academicYearDisplayExamPanelCbx_SelectedIndexChanged" Hidden="true" />
+      <Method Name="academicYearDisplayTaskPanel_SelectedIndexChanged" Hidden="true" />
+      <Field Name="academicYearDisplayTaskPanelCbx" Hidden="true" />
+      <Field Name="academicYearEditSemesterPanelCbx" Hidden="true" />
+      <Method Name="academicYearEditSemesterPanelCbx_SelectedIndexChanged" Hidden="true" />
+      <Field Name="academicYearEndLbl" Hidden="true" />
+      <Field Name="academicYearLbl" Hidden="true" />
+      <Field Name="academicYearNameAddPanelCbx" Hidden="true" />
+      <Field Name="academicYearNameEditPanelCbx" Hidden="true" />
+      <Field Name="academicYearNameLbl" Hidden="true" />
+      <Field Name="academicYearPanel" Hidden="true" />
+      <Field Name="academicYearPresentCourseCbx" Hidden="true" />
+      <Field Name="academicYearSemesterEditPanelLbl" Hidden="true" />
+      <Field Name="academicYearSemesterPanelCbx" Hidden="true" />
+      <Field Name="academicYearSemesterPanelLbl" Hidden="true" />
+      <Field Name="academicYearStartLbl" Hidden="true" />
+      <Field Name="activityTimeLbl" Hidden="true" />
+      <Field Name="activityTimeSignUpLbl" Hidden="true" />
+      <Field Name="addAcademicYearRbtn" Hidden="true" />
+      <Method Name="addAcademicYearRbtn_CheckedChanged" Hidden="true" />
+      <Field Name="addCourseLbl" Hidden="true" />
+      <Field Name="addEventAllDayChx" Hidden="true" />
+      <Field Name="addEventBackBtn" Hidden="true" />
+      <Field Name="addEventDescriptionLbl" Hidden="true" />
+      <Field Name="addEventDescriptionTxt" Hidden="true" />
+      <Field Name="addEventEndRepeatedDtp" Hidden="true" />
+      <Field Name="addEventEndsLbl" Hidden="true" />
+      <Field Name="addEventEndTimeDtp" Hidden="true" />
+      <Field Name="addeventHowOftenCbx" Hidden="true" />
+      <Field Name="addEventLocationLbl" Hidden="true" />
+      <Field Name="addEventLocationTxt" Hidden="true" />
+      <Field Name="addEventRepeatsLbl" Hidden="true" />
+      <Field Name="addEventSaveBtn" Hidden="true" />
+      <Method Name="addEventSaveBtn_Click" Hidden="true" />
+      <Field Name="addEventScreen" Hidden="true" />
+      <Method Name="addEventScreen_VisibleChanged" Hidden="true" />
+      <Field Name="addEventStartTimeDtp" Hidden="true" />
+      <Field Name="addEventTimeLbl" Hidden="true" />
+      <Field Name="addEventTitleLbl" Hidden="true" />
+      <Field Name="addEventTitleTxt" Hidden="true" />
+      <Field Name="addEventToLbl" Hidden="true" />
+      <Field Name="addLessonPanel" Hidden="true" />
+      <Field Name="addNewAcademicYearPanel" Hidden="true" />
+      <Field Name="addNewClassLbl" Hidden="true" />
+      <Field Name="addNoteBtn" Hidden="true" />
+      <Method Name="addNoteBtn_Click" Hidden="true" />
+      <Field Name="addNoteLbl" Hidden="true" />
+      <Field Name="addScheduleEventLbl" Hidden="true" />
+      <Field Name="addSemesterPanel" Hidden="true" />
+      <Field Name="addSemesterRbtn" Hidden="true" />
+      <Method Name="addSemesterRbtn_CheckedChanged" Hidden="true" />
+      <Field Name="addSubjectBtn" Hidden="true" />
+      <Method Name="addSubjectBtn_Click" Hidden="true" />
+      <Method Name="allDayChx_CheckedChanged" Hidden="true" />
+      <Method Name="Animate" Hidden="true" />
+      <Method Name="AnimateWindow" Hidden="true" />
+      <Field Name="availableTimeLbl" Hidden="true" />
+      <Field Name="backToAcademicYearBtn" Hidden="true" />
+      <Method Name="backToAcademicYearBtn_Click" Hidden="true" />
+      <Field Name="backToAddingExamBtn" Hidden="true" />
+      <Method Name="backToAddingExamBtn_Click" Hidden="true" />
+      <Method Name="backToAddingExamBtn_Click_1" Hidden="true" />
+      <Field Name="backToAddingModeBtn" Hidden="true" />
+      <Method Name="backToAddingModeBtn_Click" Hidden="true" />
+      <Field Name="backToAddingModeCoverPanel" Hidden="true" />
+      <Field Name="backToAddingModePanel" Hidden="true" />
+      <Field Name="backToAddingTaskBtn" Hidden="true" />
+      <Method Name="backToAddingTaskBtn_Click" Hidden="true" />
+      <Field Name="backToCourseBtn" Hidden="true" />
+      <Field Name="backToSemesterBtn" Hidden="true" />
+      <Field Name="birthDayDtp" Hidden="true" />
+      <Field Name="birthdayLbl" Hidden="true" />
+      <Field Name="birthdaySignUpDtp" Hidden="true" />
+      <Field Name="birthdaySignUpLbl" Hidden="true" />
+      <Field Name="button1" Hidden="true" />
+      <Field Name="calendarBackBtn" Hidden="true" />
+      <Field Name="calendarBtn" Hidden="true" />
+      <Field Name="calendarLbl" Hidden="true" />
+      <Field Name="calendarScreen" Hidden="true" />
+      <Method Name="calendarScreen_VisibleChanged" Hidden="true" />
+      <Field Name="changeEmailLabl" Hidden="true" />
+      <Field Name="changePasswordLbl" Hidden="true" />
+      <Field Name="chooseAcademicYearLbl" Hidden="true" />
+      <Field Name="chooseCourseExamPageCbx" Hidden="true" />
+      <Field Name="chooseDateDtp" Hidden="true" />
+      <Method Name="chooseDateDtp_ValueChanged" Hidden="true" />
+      <Field Name="chooseExistAcademicYearCbx" Hidden="true" />
+      <Method Name="chooseExistAcademicYearCbx_SelectedIndexChanged" Hidden="true" />
+      <Field Name="chooseSemesterCbx" Hidden="true" />
+      <Method Name="chooseSemesterCbx_SelectedIndexChanged" Hidden="true" />
+      <Field Name="chooseSemesterLbl" Hidden="true" />
+      <Field Name="chooseTimePanel" Hidden="true" />
+      <Field Name="chosenFreeTime" Hidden="true" />
+      <Field Name="chosenScheduleEvent" Hidden="true" />
+      <Field Name="classDurationNumeric" Hidden="true" />
+      <Field Name="classesLiveTile" Hidden="true" />
+      <Field Name="classesLiveTile2" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="confirmNewPasswordLbl" Hidden="true" />
+      <Field Name="confirmNewPasswordTxt" Hidden="true" />
+      <Field Name="confirmPasswordSignUpLbl" Hidden="true" />
+      <Field Name="confirmPasswordSignUpTxt" Hidden="true" />
+      <Field Name="course2Lbl" Hidden="true" />
+      <Field Name="courseDisplayExamPanelCbx" Hidden="true" />
+      <Field Name="courseDisplayTaskPanelCbx" Hidden="true" />
+      <Field Name="courseLbl" Hidden="true" />
+      <Field Name="courseNameLbl" Hidden="true" />
+      <Field Name="courseNameTxt" Hidden="true" />
+      <Field Name="CoursePanel" Hidden="true" />
+      <Field Name="coursesBackBtn" Hidden="true" />
+      <Field Name="coursesBtn" Hidden="true" />
+      <Field Name="coursesLbl" Hidden="true" />
+      <Field Name="coursesListBox" Hidden="true" />
+      <Method Name="coursesListBox_DoubleClick_1" Hidden="true" />
+      <Method Name="coursesListBox_DrawItem" Hidden="true" />
+      <Method Name="coursesListBox_MeasureItem" Hidden="true" />
+      <Method Name="CoursesPanelDefauleValues" Hidden="true" />
+      <Field Name="coursesScreen" Hidden="true" />
+      <Method Name="coursesScreen_VisibleChanged" Hidden="true" />
+      <Field Name="coursesToPresentLbl" Hidden="true" />
+      <Field Name="coursesToPresentPanel" Hidden="true" />
+      <Field Name="courseTaskPanelCbx" Hidden="true" />
+      <Field Name="CourseTasksPageLbl" Hidden="true" />
+      <Field Name="coverDeleteCoursePanel" Hidden="true" />
+      <Field Name="coverDisplayTaskPanel" Hidden="true" />
+      <Field Name="createBtn" Hidden="true" />
+      <Field Name="createUserBtn" Hidden="true" />
+      <Method Name="createUserBtn_Click" Hidden="true" />
+      <Field Name="currentWeekBtn" Hidden="true" />
+      <Method Name="currentWeekBtn_Click" Hidden="true" />
+      <Field Name="dashboardLbl" Hidden="true" />
+      <Field Name="dateLbl" Hidden="true" />
+      <Method Name="DateUpdate" Hidden="true" />
+      <Field Name="deadlineDtp" Hidden="true" />
+      <Field Name="deadlineLbl" Hidden="true" />
+      <Field Name="deleteAcademicYearBtn" Hidden="true" />
+      <Method Name="deleteAcademicYearBtn_Click" Hidden="true" />
+      <Field Name="deleteBtn" Hidden="true" />
+      <Method Name="deleteBtn_Click" Hidden="true" />
+      <Field Name="deleteCourseBtn" Hidden="true" />
+      <Method Name="deleteCourseBtn_Click" Hidden="true" />
+      <Field Name="deletecoursepPanel" Hidden="true" />
+      <Field Name="deleteExamBtn" Hidden="true" />
+      <Method Name="deleteExamBtn_Click" Hidden="true" />
+      <Field Name="deleteSemesterBtn" Hidden="true" />
+      <Method Name="deleteSemesterBtn_Click" Hidden="true" />
+      <Field Name="deleteSubjectBtn" Hidden="true" />
+      <Method Name="deleteSubjectBtn_Click" Hidden="true" />
+      <Field Name="deleteTaskBtn" Hidden="true" />
+      <Method Name="deleteTaskBtn_Click" Hidden="true" />
+      <Field Name="dialog" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Field Name="duartionLbl" Hidden="true" />
+      <Field Name="durationLbl" Hidden="true" />
+      <Field Name="editAcademicYearPanel" Hidden="true" />
+      <Field Name="editAcademicYearRbtn" Hidden="true" />
+      <Field Name="editBtn" Hidden="true" />
+      <Field Name="editEventAllDayChx" Hidden="true" />
+      <Field Name="editEventBackBtn" Hidden="true" />
+      <Field Name="editEventDescriptionLbl" Hidden="true" />
+      <Field Name="editEventDescriptionTxt" Hidden="true" />
+      <Field Name="editEventEndRepeatedEventDtp" Hidden="true" />
+      <Field Name="editEventEndsLbl" Hidden="true" />
+      <Field Name="editEventEndTimeDtp" Hidden="true" />
+      <Field Name="editEventHowOftenCbx" Hidden="true" />
+      <Field Name="editEventLbl" Hidden="true" />
+      <Field Name="editEventLocationLbl" Hidden="true" />
+      <Field Name="editEventLocationTxt" Hidden="true" />
+      <Field Name="editEventRepeatsLbl" Hidden="true" />
+      <Field Name="editEventSaveBtn" Hidden="true" />
+      <Method Name="editEventSaveBtn_Click" Hidden="true" />
+      <Field Name="editEventScreen" Hidden="true" />
+      <Field Name="editEventStartTimeDtp" Hidden="true" />
+      <Field Name="editEventTimeLbl" Hidden="true" />
+      <Field Name="editEventTitleLbl" Hidden="true" />
+      <Field Name="editEventTitleTxt" Hidden="true" />
+      <Field Name="editEventToLbl" Hidden="true" />
+      <Field Name="editScheduleEventMode" Hidden="true" />
+      <Field Name="editSemesterPanel" Hidden="true" />
+      <Field Name="editSemesterRbtn" Hidden="true" />
+      <Field Name="emailLbl" Hidden="true" />
+      <Method Name="EmailSend" Hidden="true" />
+      <Field Name="emailSignUpLbl" Hidden="true" />
+      <Field Name="emailSignUpTxt" Hidden="true" />
+      <Field Name="emailTxt" Hidden="true" />
+      <Field Name="endAcademicYearDtp" Hidden="true" />
+      <Field Name="endAcademicYearEditPanelDtp" Hidden="true" />
+      <Field Name="endAcademicYearEditpanelLbl" Hidden="true" />
+      <Field Name="endActivityDtp" Hidden="true" />
+      <Field Name="endActivityLbl" Hidden="true" />
+      <Field Name="endActivitySignUpDtp" Hidden="true" />
+      <Field Name="endSemesterDtp" Hidden="true" />
+      <Field Name="endSemesterEditPanelDtp" Hidden="true" />
+      <Field Name="endSemesterEditPanelLbl" Hidden="true" />
+      <Field Name="endTaskDtp" Hidden="true" />
+      <Field Name="endTaskLbl" Hidden="true" />
+      <Field Name="estimateTimeLbl" Hidden="true" />
+      <Field Name="estimateTimeNumeric" Hidden="true" />
+      <Method Name="estimateTimeNumeric_ValueChanged" Hidden="true" />
+      <Field Name="estimateTimeUnitCbx" Hidden="true" />
+      <Method Name="eventHowOftenCbx_SelectedIndexChanged" Hidden="true" />
+      <Field Name="examBackBtn" Hidden="true" />
+      <Field Name="examDtp" Hidden="true" />
+      <Field Name="examDurationNumeric" Hidden="true" />
+      <Field Name="examLocationLbl" Hidden="true" />
+      <Field Name="examLocationTxt" Hidden="true" />
+      <Field Name="examsBtn" Hidden="true" />
+      <Field Name="examsLbl" Hidden="true" />
+      <Field Name="examsListBox" Hidden="true" />
+      <Method Name="examsListBox_DoubleClick" Hidden="true" />
+      <Method Name="examsListBox_DrawItem" Hidden="true" />
+      <Method Name="examsListBox_MeasureItem" Hidden="true" />
+      <Field Name="examsLiveTile" Hidden="true" />
+      <Field Name="examsLiveTile2" Hidden="true" />
+      <Field Name="examsPanel" Hidden="true" />
+      <Method Name="ExamsPanelDefauleValues" Hidden="true" />
+      <Field Name="examsScreen" Hidden="true" />
+      <Method Name="examsScreen_VisibleChanged" Hidden="true" />
+      <Field Name="examsScreenCourseLbl" Hidden="true" />
+      <Field Name="examTimeUnitCbx" Hidden="true" />
+      <Field Name="examTitle" Hidden="true" />
+      <Field Name="examTitleTxt" Hidden="true" />
+      <Method Name="Forgotpassword" Hidden="true" />
+      <Field Name="forgotPasswordLinlLbl" Hidden="true" />
+      <Method Name="forgotPasswordLinlLbl_LinkClicked" Hidden="true" />
+      <Method Name="Form1_FormClosing" Hidden="true" />
+      <Method Name="Form1_Load" Hidden="true" />
+      <Field Name="freeTimeDialog" Hidden="true" />
+      <Field Name="freeTimeSearchBtn" Hidden="true" />
+      <Method Name="freeTimeSearchBtn_Click" Hidden="true" />
+      <Field Name="freeTimeSearchPanel" Hidden="true" />
+      <Field Name="freeTimeSearchRbt" Hidden="true" />
+      <Method Name="freeTimeSearchRbt_CheckedChanged" Hidden="true" />
+      <Field Name="fullNameLbl" Hidden="true" />
+      <Field Name="fullNameTxt" Hidden="true" />
+      <Field Name="gashashimLbl" Hidden="true" />
+      <Field Name="generalLbl" Hidden="true" />
+      <Field Name="goToCourseBtn" Hidden="true" />
+      <Method Name="goToCourseBtn_Click" Hidden="true" />
+      <Field Name="goToLessonBtn" Hidden="true" />
+      <Method Name="goToLessonBtn_Click" Hidden="true" />
+      <Field Name="goToSemesterBtn" Hidden="true" />
+      <Method Name="goToSemesterBtn_Click" Hidden="true" />
+      <Field Name="iconPictureBox" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="itemWidth" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="lastWeekBtn" Hidden="true" />
+      <Field Name="lastWeekLbl" Hidden="true" />
+      <Field Name="lecturerLbl" Hidden="true" />
+      <Field Name="lecturerTxt" Hidden="true" />
+      <Field Name="lessonLbl" Hidden="true" />
+      <Field Name="lessonPanel" Hidden="true" />
+      <Field Name="lessonPanelAcademicYearCbx" Hidden="true" />
+      <Field Name="lessonPanelAcademicYearLbl" Hidden="true" />
+      <Field Name="lessonPanelCourseCbx" Hidden="true" />
+      <Field Name="lessonPanelCourseLbl" Hidden="true" />
+      <Field Name="lessonPanelSaveBtn" Hidden="true" />
+      <Method Name="lessonPanelSaveBtn_Click" Hidden="true" />
+      <Field Name="lessonPanelSemesterCbx" Hidden="true" />
+      <Field Name="lessonPanelSemesterLbl" Hidden="true" />
+      <Field Name="lessonPanelTypeCbx" Hidden="true" />
+      <Field Name="lessonPanelTypeLbl" Hidden="true" />
+      <Field Name="lessonTimeUnitCbx" Hidden="true" />
+      <Field Name="liveTailstate" Hidden="true" />
+      <Field Name="locationClassLbl" Hidden="true" />
+      <Field Name="locationClassTxt" Hidden="true" />
+      <Field Name="loginScreen" Hidden="true" />
+      <Method Name="loginScreen_VisibleChanged" Hidden="true" />
+      <Field Name="logOutBtn" Hidden="true" />
+      <Field Name="logOutLbl" Hidden="true" />
+      <Field Name="mainCalendar" Hidden="true" />
+      <Method Name="MainForm" Hidden="true" />
+      <Field Name="mainScreen" Hidden="true" />
+      <Method Name="mainScreen_VisibleChanged" Hidden="true" />
+      <Method Name="MoveToAddEventScreen" Hidden="true" />
+      <Method Name="MoveToCalendarScreen" Hidden="true" />
+      <Method Name="MoveToCoursesScreen" Hidden="true" />
+      <Method Name="MoveToEditEventScreen" Hidden="true" />
+      <Method Name="MoveToExamsScreen" Hidden="true" />
+      <Method Name="MoveToLogInScreen" Hidden="true" />
+      <Method Name="MoveToMainScreen" Hidden="true" />
+      <Method Name="MoveToNotesScreen" Hidden="true" />
+      <Method Name="MoveToSettingsScreen" Hidden="true" />
+      <Method Name="MoveToTasksScreen" Hidden="true" />
+      <Field Name="multiPanel1" Hidden="true" />
+      <Field Name="nameFirstLetterLbl" Hidden="true" />
+      <Field Name="nameLbl" Hidden="true" />
+      <Field Name="newEmailLbl" Hidden="true" />
+      <Field Name="newEmailTxt" Hidden="true" />
+      <Field Name="newExamLbl" Hidden="true" />
+      <Field Name="newPasswordLbl" Hidden="true" />
+      <Field Name="newPasswordtxt" Hidden="true" />
+      <Field Name="newTaskLbl" Hidden="true" />
+      <Field Name="nextWeekBtn" Hidden="true" />
+      <Field Name="nextWeekLbl" Hidden="true" />
+      <Field Name="noCoursesPanel" Hidden="true" />
+      <Field Name="noCoursesYetLbl" Hidden="true" />
+      <Field Name="noExamsLbl" Hidden="true" />
+      <Field Name="noExamsPanel" Hidden="true" />
+      <Method Name="note_MouseDoubleClick" Hidden="true" />
+      <Field Name="note10Rtxt" Hidden="true" />
+      <Field Name="note1Rtxt" Hidden="true" />
+      <Field Name="note2Rtxt" Hidden="true" />
+      <Field Name="note3Rtxt" Hidden="true" />
+      <Field Name="note4Rtxt" Hidden="true" />
+      <Field Name="note5Rtxt" Hidden="true" />
+      <Field Name="note6Rtxt" Hidden="true" />
+      <Field Name="note7Rtxt" Hidden="true" />
+      <Field Name="note8Rtxt" Hidden="true" />
+      <Field Name="note9Rtxt" Hidden="true" />
+      <Field Name="notesBackBtn" Hidden="true" />
+      <Field Name="notesBtn" Hidden="true" />
+      <Field Name="notesLbl" Hidden="true" />
+      <Field Name="notesScreen" Hidden="true" />
+      <Method Name="notesScreen_VisibleChanged" Hidden="true" />
+      <Field Name="oldPasswordLbl" Hidden="true" />
+      <Field Name="oldPasswordTxt" Hidden="true" />
+      <Method Name="OnResize" Hidden="true" />
+      <Field Name="orLbl" Hidden="true" />
+      <Field Name="orLbl1" Hidden="true" />
+      <Field Name="orLbl3" Hidden="true" />
+      <Field Name="passwordSignUpLbl" Hidden="true" />
+      <Field Name="passwordSignUpTxt" Hidden="true" />
+      <Field Name="passwordTxt" Hidden="true" />
+      <Method Name="passwordTxt_TextChanged" Hidden="true" />
+      <Field Name="pictureBox1" Hidden="true" />
+      <Field Name="pictureBox2" Hidden="true" />
+      <Field Name="pictureBox3" Hidden="true" />
+      <Field Name="pictureBox4" Hidden="true" />
+      <Field Name="practicesLbl" Hidden="true" />
+      <Field Name="practicesTxt" Hidden="true" />
+      <Field Name="privacyLbl" Hidden="true" />
+      <Field Name="removeNoteBtn" Hidden="true" />
+      <Method Name="removeNoteBtn_Click" Hidden="true" />
+      <Field Name="removeNoteLbl" Hidden="true" />
+      <Method Name="SaveAcademicYear" Hidden="true" />
+      <Field Name="saveAcademicYearPanelBtn" Hidden="true" />
+      <Method Name="saveAcademicYearPanelBtn_Click" Hidden="true" />
+      <Field Name="saveChangesLinkLbl" Hidden="true" />
+      <Method Name="saveChangesLinkLbl_LinkClicked" Hidden="true" />
+      <Field Name="saveCoursePanelBtn" Hidden="true" />
+      <Method Name="saveCoursePanelBtn_Click" Hidden="true" />
+      <Field Name="saveEditedAcademicYearBtn" Hidden="true" />
+      <Method Name="saveEditedAcademicYearBtn_Click" Hidden="true" />
+      <Field Name="saveEditedSemesterBtn" Hidden="true" />
+      <Method Name="saveEditedSemesterBtn_Click" Hidden="true" />
+      <Field Name="saveEmailLinkLbl" Hidden="true" />
+      <Method Name="saveEmailLinkLbl_LinkClicked" Hidden="true" />
+      <Field Name="saveExamBtn" Hidden="true" />
+      <Method Name="saveExamBtn_Click" Hidden="true" />
+      <Field Name="savePasswordLinkLbl" Hidden="true" />
+      <Method Name="savePasswordLinkLbl_LinkClicked" Hidden="true" />
+      <Method Name="SaveScheduleEvent" Hidden="true" />
+      <Field Name="saveSemesrerPanelBtn" Hidden="true" />
+      <Method Name="saveSemesrerPanelBtn_Click" Hidden="true" />
+      <Method Name="SaveSemester" Hidden="true" />
+      <Field Name="saveTaskBtn" Hidden="true" />
+      <Method Name="saveTaskBtn_Click" Hidden="true" />
+      <Field Name="selectDateLbl" Hidden="true" />
+      <Field Name="selectExamLbl" Hidden="true" />
+      <Field Name="selectExamPanel" Hidden="true" />
+      <Field Name="selectTaskLbl" Hidden="true" />
+      <Field Name="selectTaskPanel" Hidden="true" />
+      <Field Name="semester2Lbl" Hidden="true" />
+      <Field Name="semesterCoursePanelCbx" Hidden="true" />
+      <Field Name="semesterCoursePanelLbl" Hidden="true" />
+      <Field Name="semesterDisplayExamPanelCbx" Hidden="true" />
+      <Field Name="semesterDisplayTaskPanelCbx" Hidden="true" />
+      <Field Name="semesterEndLbl" Hidden="true" />
+      <Field Name="semesterLbl" Hidden="true" />
+      <Field Name="semesterNameCbx" Hidden="true" />
+      <Field Name="semesterNameEditPanelCbx" Hidden="true" />
+      <Field Name="semesterNameEditPanelLbl" Hidden="true" />
+      <Field Name="semesterNameLbl" Hidden="true" />
+      <Field Name="semesterPanel" Hidden="true" />
+      <Field Name="semesterPresentCourseCbx" Hidden="true" />
+      <Field Name="semesterStartLbl" Hidden="true" />
+      <Method Name="SetComboBoxes" Hidden="true" />
+      <Method Name="SetCoursesOfSemester" Hidden="true" />
+      <Method Name="SetSemesterOfYear" Hidden="true" />
+      <Method Name="SetTabStop" Hidden="true" />
+      <Field Name="settingsBackBtn" Hidden="true" />
+      <Field Name="settingsBtn" Hidden="true" />
+      <Field Name="settingsLbl" Hidden="true" />
+      <Field Name="settingsScreen" Hidden="true" />
+      <Method Name="settingsScreen_VisibleChanged" Hidden="true" />
+      <Method Name="SetVisible" Hidden="true" />
+      <Field Name="shareBtn" Hidden="true" />
+      <Method Name="shareBtn_Click" Hidden="true" />
+      <Field Name="signInBtn" Hidden="true" />
+      <Method Name="signInBtn_Click" Hidden="true" />
+      <Field Name="signUpBackBtn" Hidden="true" />
+      <Field Name="signUpBtn" Hidden="true" />
+      <Method Name="signUpBtn_Click" Hidden="true" />
+      <Field Name="signUpLbl" Hidden="true" />
+      <Field Name="signUpScreen" Hidden="true" />
+      <Field Name="startAcademicYearDtp" Hidden="true" />
+      <Field Name="startAcademicYearEditPanelDtp" Hidden="true" />
+      <Field Name="startAcademicYearEditPanelLbl" Hidden="true" />
+      <Field Name="startAcativitySignUpDtp" Hidden="true" />
+      <Field Name="startActivityDtp" Hidden="true" />
+      <Field Name="startActivityLbl" Hidden="true" />
+      <Field Name="startAndEndTaskRbt" Hidden="true" />
+      <Field Name="startExamLbl" Hidden="true" />
+      <Field Name="startLessonDtp" Hidden="true" />
+      <Field Name="startLessonLbl" Hidden="true" />
+      <Field Name="startSemesterDtp" Hidden="true" />
+      <Field Name="startSemesterEditPanelDtp" Hidden="true" />
+      <Field Name="startSemesterEditPanelLbl" Hidden="true" />
+      <Field Name="startTaskDtp" Hidden="true" />
+      <Field Name="startTaskLbl" Hidden="true" />
+      <Field Name="studentRoutineLbl" Hidden="true" />
+      <Field Name="subjectsLbl" Hidden="true" />
+      <Field Name="subjectsLsb" Hidden="true" />
+      <Field Name="subjectsTxt" Hidden="true" />
+      <Method Name="subjectsTxt_KeyDown" Hidden="true" />
+      <Method Name="subkectsLsb_DoubleClick" Hidden="true" />
+      <Field Name="taksPanel" Hidden="true" />
+      <Field Name="taskNameLbl" Hidden="true" />
+      <Field Name="taskNameTxt" Hidden="true" />
+      <Field Name="tasksBackBtn" Hidden="true" />
+      <Field Name="tasksBtn" Hidden="true" />
+      <Field Name="tasksLbl" Hidden="true" />
+      <Field Name="tasksListBox" Hidden="true" />
+      <Method Name="tasksListBox_DoubleClick" Hidden="true" />
+      <Method Name="tasksListBox_DrawItem" Hidden="true" />
+      <Method Name="tasksListBox_MeasureItem" Hidden="true" />
+      <Field Name="tasksLiveTile" Hidden="true" />
+      <Field Name="tasksLiveTile2" Hidden="true" />
+      <Method Name="TasksPanelDefauleValues" Hidden="true" />
+      <Field Name="tasksScreen" Hidden="true" />
+      <Method Name="tasksScreen_VisibleChanged" Hidden="true" />
+      <Field Name="timer1" Hidden="true" />
+      <Method Name="timer1_Tick" Hidden="true" />
+      <Field Name="todayLiveTile" Hidden="true" />
+      <Field Name="todayLiveTile2" Hidden="true" />
+      <Field Name="toSignUpLbl" Hidden="true" />
+      <Field Name="user" Hidden="true" />
+      <Field Name="userCalendar" Hidden="true" />
+      <Method Name="userCalendar_CalendarItemSelected" Hidden="true" />
+      <Method Name="userCalendar_MouseClick" Hidden="true" />
+      <Method Name="userCalendar_RemoveScheduleEvent" Hidden="true" />
+      <Method Name="userCalendar_ScheduleEventDoubleClick" Hidden="true" />
+      <Field Name="userData" Hidden="true" />
+      <Field Name="yearNameEditPanelLbl" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>9q//v97zzPdur9e9z3/+/v/+v++9++//P+c+n//6+V4=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.Note" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAACAAAAAA=</HashCode>
+      <FileName>Note.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.SplashScreen" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAQACAAAAAEAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SplashScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.StudentRoutine" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAABAAABAIIAAAAIAEAgAAAAAAAAAAA=</HashCode>
+      <FileName>StudentRoutine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.User" Collapsed="true">
+    <Position X="7.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAAAACAAAIAgAACAAAAAAAAQAAACAAAAAhAIAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.UserData" Collapsed="true">
+    <Position X="8" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEgBAAAAAQCQAAAiAIIAIAZgAQQAAAMkAEACAgAIAA=</HashCode>
+      <FileName>UserData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAABAAAAIA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAQQQAAAMEACAABEIQAAQIEAAAAAIAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Module.Properties.Settings" Collapsed="true">
+    <Position X="11.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

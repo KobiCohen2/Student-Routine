@@ -1,0 +1,27 @@
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Main Module.exe.config
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Main Module.exe.manifest
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Main Module.application
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Main Module.exe
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Main Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Calendar Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Education Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\MetroFramework.Design.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\MetroFramework.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\MetroFramework.Fonts.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\MultiPanelControl.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\RadialControls.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\SplashScreen.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\System.Windows.Forms.Calendar.dll
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Calendar Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\Education Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\RadialControls.pdb
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\RadialControls.pri
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\bin\Release\System.Windows.Forms.Calendar.pdb
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\obj\Release\Main Module.csprojResolveAssemblyReference.cache
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\obj\Release\Main_Module.Form1.resources
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\obj\Release\Main_Module.Properties.Resources.resources
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\obj\Release\Main Module.csproj.GenerateResource.Cache
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\obj\Release\Main Module.exe.manifest
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\obj\Release\Main Module.application
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\obj\Release\Main Module.exe
+C:\Users\kobi2\Desktop\- פרויקט\Main Module\Main Module\Main Module\obj\Release\Main Module.pdb

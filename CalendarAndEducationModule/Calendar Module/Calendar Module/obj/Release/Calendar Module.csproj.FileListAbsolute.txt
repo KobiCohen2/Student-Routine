@@ -1,0 +1,4 @@
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Calendar Module\Calendar Module\bin\Release\Calendar Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Calendar Module\Calendar Module\bin\Release\Calendar Module.pdb
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Calendar Module\Calendar Module\obj\Release\Calendar Module.dll
+C:\Users\kobi2\Desktop\- פרויקט\מודול יומן עדכני\Calendar Module\Calendar Module\obj\Release\Calendar Module.pdb
